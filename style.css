@@ -23,7 +23,7 @@ a:hover{
 	text-align: center;
 	padding: 150px;
 	color: white;
-	background-image: url("../landing/images/meurice-2.jpg");
+	background-image: url("/meurice-2.jpg");
 	background-size: cover;
 }
 #header p{
